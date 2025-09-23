@@ -1,7 +1,6 @@
 ### Hi, how are you? 👋
 
-- 👨‍💻 I’m Gustavo, a Senior Software Engineer building apps in React, Node.js, and TypeScript.  
-- 🚀 Passionate about startups, science, and how technology impacts human behavior.  
+- 👨‍💻 I’m a Senior Software Engineer passionate about startups, science, and how technology impacts human behavior.  
 - 📫 Reach me at [Email](mailto:getscodes@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/gustavotua).  
 
 ---
