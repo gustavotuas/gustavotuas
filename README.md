@@ -1,4 +1,4 @@
-### Hi, how are you? 👋
+### Hi, It's Gustavo! 👋
 
 - 👨‍💻 I’m a Senior Software Engineer passionate about startups, science, and how technology impacts human behavior.  
 - 📫 Reach me at [Email](mailto:getscodes@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/gustavotua).  
